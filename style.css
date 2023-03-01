@@ -72,7 +72,7 @@ h4 {
 .logo {
     float: right;
     width: 50%;
-    margin-top: 23px;
+    margin-top: 33px;
 }
 .lgog ,svg {
 
@@ -84,6 +84,7 @@ h4 {
 }
 .hh {
     float: left;
-    font-size: 40px;
+    font-size: 46px;
     font-family: fantasy;
-    font-weight: 300;}
+    LETTER-SPACING: 3px;
+    font-weight: 400;}
