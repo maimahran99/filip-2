@@ -1,0 +1,86 @@
+
+.FirstHeader {
+background-color:#01112D ;
+color: white;
+border-radius: 18px;
+margin: 40px;
+padding: 20px;
+height: 174px;
+FONT-FAMILY: sans-serif;
+}
+ .right {
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+.left {
+    float: right;
+    text-align: center;
+    width: 50%;
+} 
+.one {
+    font-size: 24px;
+    margin-bottom: -13px;
+    margin-top: 4px;
+    font-weight: bolder;
+
+} 
+.two {
+    font-size: 14px;
+}
+.fi1 {
+    font-size: 28px;
+    padding-top: 27px;
+    margin-top: 0px;
+    MARGIN-LEFT: 19px;
+}
+.fi2 {
+    margin-left: -28px;
+    font-size: 28px;
+    margin-top: -12px;
+    FONT-WEIGHT: revert;
+}
+
+.text {
+    width: 319px;
+    background-color: #B90EDF;
+    border-radius: 18px;
+    margin-top: 61px;
+    margin-left: -25px;
+    padding: 2px 7px;
+    height: 59px;
+    color: wheat;
+}
+h4 {
+    font-size: 16px;
+    float: left;
+    margin-top: -16px;
+    margin-left: 68px;
+    FONT-WEIGHT: 100;
+}
+.ri {
+    width: 80%;
+    float: left;
+}
+.second {
+    width: 80%; 
+    margin: auto;
+}
+.logo {
+    float: right;
+    width: 50%;
+    margin-top: 23px;
+}
+.lgog ,svg {
+
+    margin-left: 41px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+
+}
+.hh {
+    float: left;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;}
